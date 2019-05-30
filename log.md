@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Dia 0: 27 de maio, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso do dia**: Organizei o css de um projeto antigo da faculdade que poderia ser melhorado. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Aprendizados:** Eu apanhei um pouco do CSS, mas sinto que estou progredindo.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link do trabalho:** [Grade Engenharia de Software](https://vnduda.github.io/LPP/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Dia 2: 28 de maio, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso do dia**: Fiquei buscando maneiras para organizar a primeira linha da tabela. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Aprendizados:** Tentei com flexbox mas ainda não consegui resolver. Tentarei de novo amanhã.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link do trabalho:** [Grade Engenharia de Software](https://vnduda.github.io/LPP/)
 
+### Dia 3: 29 de maio, 2019 
 
-### Day 1: June 27, Monday
+**Progresso do dia**: Avancei em alguns exercícios do FreeCodeCamp, para me lembrar mais de html.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Aprendizados:** Revisei um pouco sobre html
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link do trabalho:** [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)

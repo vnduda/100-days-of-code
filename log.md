@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 27 de maio, 2019 
+### Dia 1: 27 de maio, 2019 
 
 **Progresso do dia**: Organizei o css de um projeto antigo da faculdade que poderia ser melhorado. 
 

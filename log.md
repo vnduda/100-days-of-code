@@ -24,3 +24,12 @@
 
 **Link do trabalho:** [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 [Grade Engenharia de Software](https://vnduda.github.io/LPP/)
+
+### Dia 4: 30 de maio, 2019 
+
+**Progresso do dia**: Comecei um novo curso usando Lua para fazer um jogo Pong, fiz a versão 1, aprendendo os conceitos básicos.
+
+**Aprendizados:** Aprendi conceitos básicos de Lua e LÖVE.
+
+**Link do trabalho:** [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/courseware/67588b76ec534f7da0fa917fac4350b8/72c04e2f9eb24f6494ca99b582ae67ef/)
+[Progresso Pong](https://github.com/vnduda/Pong-game)

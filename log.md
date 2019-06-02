@@ -46,7 +46,7 @@
 
 **Progresso do dia**: Continuei o curso usando Lua para fazer um jogo Pong, fiz a versão 2, aprendendo os conceitos básicos.
 
-**Aprendizados:** Aprendi conceitos básicos de Lua e LÖVE.
+**Aprendizados:** Aprendi mais alguns conceitos básicos de Lua e LÖVE.
 
 **Link do trabalho:** [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/courseware/67588b76ec534f7da0fa917fac4350b8/72c04e2f9eb24f6494ca99b582ae67ef/)
 [Progresso Pong](https://github.com/vnduda/Pong-game)

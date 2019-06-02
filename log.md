@@ -42,7 +42,7 @@
 
 **Link do trabalho:** [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 
-### Dia 4: 30 de maio, 2019 
+### Dia 6: 01 de junho, 2019 
 
 **Progresso do dia**: Continuei o curso usando Lua para fazer um jogo Pong, fiz a versão 2, aprendendo os conceitos básicos.
 

@@ -68,3 +68,10 @@
 **Link do trabalho:** [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/courseware/67588b76ec534f7da0fa917fac4350b8/72c04e2f9eb24f6494ca99b582ae67ef/)
 [Progresso Pong](https://github.com/vnduda/Pong-game)
 
+### Dia 9: 04 de junho, 2019
+
+**Progresso do dia**: Aprendi a configurar o LOVE para conseguir ver em tempo real o jogo Pong criando forma.
+
+**Aprendizados:** Aprendi a configurar o LOVE, porém percebi um bug no código que ainda não consegui resolver. Tentarei amanhã.
+
+**Link do trabalho:** [Make Games with Love2D - Setup, Structure, and Development Basics](https://www.youtube.com/watch?v=yrIwFflGeyA)

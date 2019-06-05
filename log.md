@@ -75,3 +75,12 @@
 **Aprendizados:** Aprendi a configurar o LOVE, porém percebi um bug no código que ainda não consegui resolver. Tentarei amanhã.
 
 **Link do trabalho:** [Make Games with Love2D - Setup, Structure, and Development Basics](https://www.youtube.com/watch?v=yrIwFflGeyA)
+
+### Dia 10: 05 de junho, 2019
+
+**Progresso do dia**: Jogo Pong agora possui barras laterais e uma bola no centro
+
+**Aprendizados:** Consegui resolver o bug de uma função (causada pela versão do LOVE que estava utilizando). Também aprendi a criar barras laterais e a bolinha, além de colocar a letra mais retrô e padronizada.
+
+**Link do trabalho:** [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/courseware/67588b76ec534f7da0fa917fac4350b8/72c04e2f9eb24f6494ca99b582ae67ef/)
+[Progresso Pong](https://github.com/vnduda/Pong-game)
